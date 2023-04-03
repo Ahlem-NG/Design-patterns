@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3700e1f-e74a-4e4f-8e3b-038a17763a97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20G12mfgFjnUjvptj8zcOuiZFl9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Template_Method" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\Design_Pattern\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\Design_Pattern\src" />
+      <recent name="C:\Users\dell\IdeaProjects\Design_Pattern\src\DP_Strategie" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Distributeur">
+    <configuration name="ClasseAvecEtat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP_State.ClasseAvecEtat" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP_State.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DPDecorator.Client" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DPDecorator.Supplement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Distributeur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DistributeurBonbon.Distributeur" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DistributeurBonbon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DPDecorator.Main" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DPDecorator.Supplement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Template_Method.MainHouse" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Template_Method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeteoObservateur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="meteo_observateur.MeteoObservateur" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="meteo_observateur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObservMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP_Ovservateur.ObservMain" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP_Ovservateur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Distributeur" />
+        <item itemvalue="Application.ClasseAvecEtat" />
+        <item itemvalue="Application.MeteoObservateur" />
+        <item itemvalue="Application.ObservMain" />
+        <item itemvalue="Application.MainHouse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3700e1f-e74a-4e4f-8e3b-038a17763a97" name="Default Changelist" comment="" />
+      <created>1635655905766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635655905766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="18" key="#Main_(1)" timestamp="1637922724349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="18" key="#Main_(1)/0.0.1366.728@0.0.1366.728" timestamp="1637922724349" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637922690992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1637922690992" />
+    <state x="453" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1639765862800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1639765862800" />
+    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1638288326559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1638288326559" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638280448500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1638280448500" />
+    <state x="441" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1636712220797">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1636712220797" />
+    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1636405051474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1636405051474" />
+    <state width="1306" height="511" key="GridCell.Tab.0.bottom" timestamp="1639772779781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="511" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1639772779781" />
+    <state width="1306" height="511" key="GridCell.Tab.0.center" timestamp="1639772779781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="511" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1639772779781" />
+    <state width="1306" height="511" key="GridCell.Tab.0.left" timestamp="1639772779781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="511" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1639772779781" />
+    <state width="1306" height="511" key="GridCell.Tab.0.right" timestamp="1639772779781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="511" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1639772779781" />
+    <state x="348" y="62" key="NewModule_or_Project.wizard" timestamp="1636405064082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1636405064082" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1644605747446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1644605747446" />
+    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1638520661157">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1638520661157" />
+    <state x="210" y="0" width="1020" height="707" key="dock-window-1" timestamp="1638520528268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="210" y="0" width="1020" height="707" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1638520528268" />
+    <state x="65" y="0" key="new project wizard" timestamp="1644605823291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1644605823291" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1636110818807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1636110818807" />
+  </component>
+</project>
